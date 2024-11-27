@@ -21,7 +21,7 @@ The following features were identified as the most important for the model's per
 | FLAG\_OWN\_CAR | Whether the individual owns a car  |
 
 ### **Visualization of Feature Importance**
-
+![Screenshot](https://github.com/Karthick-source/Bank-Risk-Controller-Systems/blob/master/images/feature_importance.png)
 **SCREEN FROM STREAMLIT**
 
 **![][image1]**
